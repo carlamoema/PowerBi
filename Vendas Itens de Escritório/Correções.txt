@@ -1,0 +1,6 @@
+1 - Ajustar filtro mês aos dados de clientes
+
+2 - Conferir feedback do MD
+
+3 - Ajustar visual e tela de fundo da aba Detalhes
+
